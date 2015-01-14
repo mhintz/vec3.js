@@ -1,5 +1,5 @@
 {
-  "name": "vec3.js",
+  "name": "svec3",
   "version": "1.0.0",
   "description": "A simple 3d vector implementation",
   "main": "vec3.js",
